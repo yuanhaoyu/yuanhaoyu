@@ -3,6 +3,9 @@
 
 🤠 A normal developer
 
+
+<img src="https://user-images.githubusercontent.com/15946472/121710708-718c5380-cb0c-11eb-80f5-44d6f067c733.jpg" width = "260"  align=center />
+
 ![](https://github-readme-stats.vercel.app/api?username=yuanhaoyu)
 
 ---
